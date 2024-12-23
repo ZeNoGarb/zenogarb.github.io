@@ -13,4 +13,4 @@
  
 
 **ตัวอย่างในชีวิตประจำวัน: หน่วยงานที่จัดการข้อมูลลับ ผู้ใช้งานในระดับเดียวกันจะไม่ได้รับอนุญาตให้เข้าถึงข้อมูลของกันและกัน เว้นแต่ข้อมูลนั้นมีความเกี่ยวข้องกับภารกิจที่ทำร่วมกัน**  
-URL: <a href="https://Ohmykk.github.io/parity-bits">ohmykk.github.io/parity-bits
+URL: <a href="https://Ohmykk.github.io/">ohmykk.github.io/parity-bits
