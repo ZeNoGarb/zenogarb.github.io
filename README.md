@@ -14,5 +14,7 @@
 
 [parity-bits](parity-bits.md)
 
+[xmas](xmas.md)
+
 <p alige="left">
 <img src="picture/13.jpg" width="300">
