@@ -16,5 +16,4 @@
 
 [xmas](xmas.md)
 
-<p alige="left">
-<img src="picture/13.jpg" width="300">
+picture[(picture/13.jpg)]
