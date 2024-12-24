@@ -16,4 +16,4 @@
 
 [xmas](xmas.md)
 
-picture[(picture/13.jpg)]
+![Profile Picture](picture/13.jpg)
