@@ -16,6 +16,6 @@
 
 [xmas](xmas.md)
 
-[Boradgame](Boardgame.md)
+[Boardgame](Boardgame.md)
 
 ![Profile Picture](picture/13.jpg)
