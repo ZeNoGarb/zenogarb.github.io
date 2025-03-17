@@ -14,4 +14,4 @@
 
 **ตัวอย่างในชีวิตประจำวัน: ทำสำเนาแต่ละหน้ากระจายไปให้เพื่อนหลายคน ถ้าหน้าใดหน้าหนึ่งหายไป คุณยังสามารถรวบรวมสำเนาที่เหลือจากเพื่อน ๆ เพื่อกู้คืนเนื้อหาที่หายไปได้
 
-URL: <a href="[[https://Ohmykk.github.io/">(https://ohmykk.github.io/parity-bits)
+URL: <a href="[[[https://Ohmykk.github.io](https://ohmykk.github.io/parity-bits)
