@@ -20,6 +20,6 @@
 
 [Accuracy](Accuracy.md)
 
-[security-requirement](security-requirement)
+[security-requirement](security-requirement.md)
 
 ![Profile Picture](picture/13.jpg)
