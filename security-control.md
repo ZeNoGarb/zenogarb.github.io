@@ -3,7 +3,7 @@
 ระบบ คีย์การ์ด ( Access Control )
 Location : Kensington Laemchabang-Sriracha
 
-![scr](Picture/Sec.jpg)
+![scr](picture/Sec.jpg)
 
  - Types of Security Controls: Physical Controls
  - Control Functions : Preventive Controls
