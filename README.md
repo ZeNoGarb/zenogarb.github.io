@@ -22,4 +22,6 @@
 
 [security-requirement](security-requirement.md)
 
+[security-control](security-control.md)
+
 ![Profile Picture](picture/13.jpg)
