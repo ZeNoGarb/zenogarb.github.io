@@ -17,5 +17,6 @@
 [xmas](xmas.md)
 
 [Boardgame](Boardgame.md)
+[Accuracy](Accuracy.md)
 
 ![Profile Picture](picture/13.jpg)
